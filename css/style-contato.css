@@ -126,7 +126,6 @@ nav ul li a:hover{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: top;
     width: 50%;
 }
 
@@ -138,7 +137,7 @@ nav ul li a:hover{
     color: rgb(149, 182, 3);
     font-size: 30px;
     margin-bottom: 40px;
-    align-items: center;
+    align-items: top;
 }
 
 .box-texto > h2 > span{
